@@ -1,0 +1,97 @@
+
+
+.ul{
+
+  background-color: rgb(168, 168, 228);
+
+  height: 36em;
+
+  background-size: cover;
+
+  text-align: center;
+
+}
+
+
+
+.ur{
+
+  background-color: rgb(243,169, 223);
+
+  background-size: cover;
+
+  text-align: center;
+
+}
+
+
+
+h1{
+
+
+
+  color: #0B0B45;
+
+  text-align: right
+
+}
+
+h2{
+
+  color: black;
+
+}
+
+.dr{
+
+  background-color: rgb(243,169, 223);
+
+
+
+  background-size: cover;
+
+  text-align: center
+
+}
+
+
+
+h1 {
+
+  text-align: left;
+
+  margin: auto;
+
+  width: 200px;
+
+}
+
+
+
+h3{
+
+  color: whitesmoke;
+
+  text-align: right;
+
+  font-family: Arial, Helvetica, sans-serif;
+
+  padding-right: 5%;
+
+
+
+}
+
+
+
+.button {
+
+  padding-right: 15%;
+
+
+
+}
+
+
+
+

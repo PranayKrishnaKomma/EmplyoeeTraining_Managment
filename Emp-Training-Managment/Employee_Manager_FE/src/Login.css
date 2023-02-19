@@ -1,0 +1,335 @@
+*{
+
+    margin:0;
+
+    padding:0;
+
+    box-sizing:border-box;
+
+}
+
+
+
+.container {
+
+    position: absolute;
+
+    max-width: 800px;
+
+    height: 500px;
+
+    margin: auto;
+
+    top: 50%;
+
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+
+}
+
+
+
+.myRightCtn {
+
+    position: relative;
+
+    background-image: linear-gradient(45deg, #8b60dd, #ff7200);
+
+    border-radius: 25px;
+
+    height: 100%;
+
+    padding: 25px;
+
+    color: white;
+
+    font-size: 13px;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    font-family: 'Times New Roman', Times, serif;
+
+    padding-top: 30%;
+
+}
+
+
+
+.myLeftCtn12{
+
+    position: relative;
+
+    border-radius: 25px;
+
+    height: 100%;
+
+    padding: 25px;
+
+    padding-left: 50px ;
+
+    font-size: 18px;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;  
+
+}
+
+
+
+.myLeftCtn12 h3 {
+
+    font-family: 'Times New Roman', Times, serif;
+
+    color: #ff7200;
+
+    font-size: 24px;
+
+    font-weight: 900;
+
+    margin-bottom: 20px;
+
+   
+
+}
+
+
+
+.row{
+
+    height: 100%;
+
+}
+
+
+
+.myCard {
+
+    position: relative;
+
+    background: #fff;
+
+    height: 100%;
+
+    border-radius: 25px;
+
+    -webkit-box-shadow: 0px 10px 40px -10px rgba(0, 0, 0, 0.7);
+
+    -moz-box-shadow: 0px 10px 40px -10px rgba(0, 0, 0, 0.7);
+
+    box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.7);
+
+}
+
+
+
+.myRight h3 {
+
+    color: #fff;
+
+    font-size: 44px;
+
+}
+
+
+
+.box1 {
+
+    position: relative;
+
+    margin: 20px;
+
+    margin-bottom: 100px;
+
+}
+
+
+
+.myLeftCtn12 .myInput {
+
+    width: 230px;
+
+    border-radius: 25px;
+
+    padding: 10px;
+
+    scroll-padding-left: 50px;
+
+    border: none;
+
+    -webkit-box-shadow: 0px 10px 49px -14px rgba(0, 0, 0, 0.7);
+
+    -moz-box-shadow: 0px 10px 49px -14px rgba(0, 0, 0, 0.7);
+
+    box-shadow: 0px 10px 49px -14px rgba(0, 0, 0, 0.7);
+
+}
+
+
+
+.myLeftCtn12 .myInput:focus {
+
+    outline: none;
+
+}
+
+
+
+.myForm {
+
+    position: relative;
+
+    margin-top: 50px;
+
+}
+
+
+
+.myLeftCtn12 .butt {
+
+    background: linear-gradient(45deg, #bb36fd, #ff7200);
+
+    color: #fff;
+
+    width: 260px;
+
+    border: none;
+
+    border-radius: 25px;
+
+    padding: 10px;
+
+    -webkit-box-shadow: 0px 10px 41px -11px rgba(0, 0, 0, 0.7);
+
+    -moz-box-shadow: 0px 10px 41px -11px rgba(0, 0, 0, 0.7);
+
+    box-shadow: 0px 10px 41px -11px rgba(0, 0, 0, 0.7);
+
+}
+
+
+
+.myLeftCtn12 .butt:hover {
+
+    background: linear-gradient(45deg, #c85bff, #ff7200);
+
+}
+
+
+
+.myLeftCtn12 .butt:focus {
+
+    outline: none;
+
+}
+
+
+
+.myLeftCtn12 .bi-person-circle {
+
+    position: relative;
+
+    color: #ff7200;
+
+    padding-left: 60px;
+
+    font-size: 2.5em;
+
+
+
+   
+
+}
+
+
+
+.myLeftCtn12 .bi-envelope-fill {
+
+    position: relative;
+
+    color: #ff7200;
+
+    font-size: 1.5rem;
+
+    padding-right: 1rem;
+
+
+
+}
+
+
+
+
+
+.myLeftCtn12 .bi-lock-fill {
+
+    position: relative;
+
+    color: #ff7200;
+
+    font-size: 1.5rem;
+
+    padding-right: 1rem;
+
+}
+
+
+
+.butt_out {
+
+    background: transparent;
+
+    color: #fff;
+
+    width: 120px;
+
+    border: 2px solid #fff;
+
+    border-radius: 25px;
+
+    padding: 10px;
+
+    -webkit-box-shadow: 0px 10px 49px -14px rgba(0, 0, 0, 0.7);
+
+    -moz-box-shadow: 0px 10px 49px -14px rgba(0, 0, 0, 0.7);
+
+    box-shadow: 0px 10px 49px -14px rgba(0, 0, 0, 0.7);
+
+}
+
+
+
+.butt_out:hover {
+
+    border: 2px solid #eecbff;
+
+}
+
+
+
+.butt_out:focus {
+
+    outline: none;
+
+}
+
+
+
+.myLeftCtn12 h6 {
+
+    font-family: 'Times New Roman', Times, serif;
+
+    color: #ff7200;
+
+    text-align: center;
+
+
+
+}

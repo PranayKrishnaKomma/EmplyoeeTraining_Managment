@@ -1,0 +1,68 @@
+.AD{
+  background-image: url(./Images/ADD.jpg);  
+  height: 50em;
+  background-size: cover;
+  text-align: center;
+}
+.EE{
+  background-image: url(./Images/Editpage.jpg );  
+  background-color: rgb(168, 168, 228);
+  height: 50em;
+  background-size: cover;
+  text-align: center;
+}
+
+.ET{
+  background-image: url(./Images/EditCoursePage.jpg);  
+  background-color: rgb(168, 168, 228);
+  height: 50em;
+  background-size: cover;
+  text-align: center;
+}
+.ur{
+  background-color: rgb(250, 243, 248);
+  background-size: cover;
+  text-align: center;
+}
+.app{
+  background-image: url(/src/background.jpg);
+  height: 36em;
+  background-size: cover;
+
+}
+h1{
+
+  color: black
+}
+h2{
+  color: black;
+}
+.dr{
+  background-image: url(./Images/ei.jpeg);
+  background-color: rgb(243,169, 223);
+  background-size: cover;
+  text-align: center;
+}
+ .mr{
+  background-image: url(./Images/mdb.jpeg);
+  height: 50em;
+  background-size: cover;
+
+} 
+.ei{
+  background-image: url(./Images/ei.jpeg);
+  height: 35em;
+  background-size: cover;
+  text-align: center
+}
+.log{
+  background-image: url(./Images/login.jpeg);
+  height: 45em;
+  background-size: cover;
+}
+.ar{
+  background-image: url(./Images/addemp.jpeg);
+  height: 50em;
+
+  background-size: cover;
+}
